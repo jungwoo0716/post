@@ -1,0 +1,4 @@
+baseURL = 'https://jungwoo0716.github.io/post/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme= 'PaperMod'
